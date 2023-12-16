@@ -133,6 +133,7 @@ https://github.com/srkirve77/PointAboveOrBelow/assets/41838493/824c4673-845e-404
 If you are contributing below features to this project, you will be added in collaborators!
 - Display each perceptrons accuracy and compare it with overall network's accuracy
 - Make Learning rate adaptive (this looks difficult)
+
 Apart from above, you can also come up with your own idea with considerable impact and you will be added in collaborators as well!
 
 
